@@ -12,8 +12,8 @@ a {
 
 :root {
   --main-color: rgb(179, 13, 7);
-  --text-color: #000000;
-  --bg-color: #fff;
+  --text-color: #fff;
+  --bg-color: #;
 }
 
 .body {
